@@ -10,5 +10,5 @@
         "Texas::To::Uni": "lib/Texas/To/Uni.pm6"
     },
     "author"       : "github:Altai-man",
-    "source-url" : "git://github.com/Altai-man/perl6-Texas-To-Uni.git"
+    "source-url" : "git://github.com/Altai-man/p6-Texas-To-Uni.git"
 }
